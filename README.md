@@ -7,15 +7,17 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 ## Back end
 
 - [x] Run .NET code within your browser: https://dotnetfiddle.net/
+- [x] Firebase: https://www.firebase.com/
+- [x] Parse: https://parse.com/
 
 ## Front end
 
 - [ ] Gulp 4
-- [ ] React
+- [ ] React: https://facebook.github.io/react/
 
 ## Design 
 
-- [ ] 0to255
+- [ ] Find the perfect variation of colour: http://www.0to255.com/
 
 ## Umbraco
 
@@ -29,23 +31,23 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 ## Performance
 
-- [ ] http://www.webpagetest.org/
+- [ ] Test page loading times: http://www.webpagetest.org/
 
 ## Accessibility
 
-- [x] http://zone.github.io/zwag/
-- [ ] http://colorsafe.co/
-- [ ] http://lowvision.support/
+- [x] Easy lookup of web accessibility guidelines: http://zone.github.io/zwag/
+- [ ] Create accessible color palettes: http://colorsafe.co/
+- [ ] Simulate common low vision disorders and color-blindness: http://lowvision.support/
 
 ## Testing
 
 ## Social media
 
-- [ ] Pablo by Buffer
+- [ ] Pablo by Buffer: https://buffer.com/pablo
 
 ## Project management
 
-- [x] Flock
-- [ ] WakaTime
+- [x] Flock: https://heyflock.com/
+- [ ] WakaTime: https://wakatime.com/
 
 ## Other
