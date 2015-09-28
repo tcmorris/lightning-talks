@@ -21,6 +21,8 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 ## Umbraco
 
+- [ ] Umbraco as a Service (UaaS)
+
 ## EPiServer
 
 ## Emails
