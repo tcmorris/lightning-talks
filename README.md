@@ -33,8 +33,6 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 ## Performance
 
-- [ ] Test page loading times: http://www.webpagetest.org/
-
 ## Accessibility
 
 - [x] Easy lookup of web accessibility guidelines: http://zone.github.io/zwag/
@@ -43,6 +41,9 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 ## Testing
 
+- [x] SEO Toolkit within IIS
+- [ ] Test page loading times: http://www.webpagetest.org/
+
 ## Social media
 
 - [ ] Pablo by Buffer: https://buffer.com/pablo
@@ -50,6 +51,6 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 ## Project management
 
 - [x] Flock: https://heyflock.com/
-- [ ] WakaTime: https://wakatime.com/
+- [x] WakaTime: https://wakatime.com/
 
 ## Other
