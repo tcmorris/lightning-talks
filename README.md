@@ -33,6 +33,8 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 ## Performance
 
+- [x] HTTP/2: https://http2.github.io/
+
 ## Accessibility
 
 - [x] Easy lookup of web accessibility guidelines: http://zone.github.io/zwag/
