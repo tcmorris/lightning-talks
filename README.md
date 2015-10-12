@@ -45,6 +45,7 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 - [x] SEO Toolkit within IIS
 - [ ] Test page loading times: http://www.webpagetest.org/
+- [ ] Pingdom website speed test: http://tools.pingdom.com/fpt/
 
 ## Social media
 
