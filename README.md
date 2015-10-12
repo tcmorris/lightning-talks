@@ -21,7 +21,7 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 ## Umbraco
 
-- [ ] Umbraco as a Service (UaaS)
+- [x] Umbraco as a Service (UaaS)
 
 ## EPiServer
 
@@ -36,8 +36,8 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 ## Accessibility
 
 - [x] Easy lookup of web accessibility guidelines: http://zone.github.io/zwag/
-- [ ] Create accessible color palettes: http://colorsafe.co/
-- [ ] Simulate common low vision disorders and color-blindness: http://lowvision.support/
+- [x] Create accessible color palettes: http://colorsafe.co/
+- [x] Simulate common low vision disorders and color-blindness: http://lowvision.support/
 
 ## Testing
 
