@@ -25,7 +25,10 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 
 ## EPiServer
 
-## Emails
+## Emails / forms
+
+- [ ] Forms for static websites: https://formspree.io/
+- [ ] Typeform: http://www.typeform.com/
 
 ## Security
 
