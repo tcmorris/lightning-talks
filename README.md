@@ -9,11 +9,15 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 - [x] Run .NET code within your browser: https://dotnetfiddle.net/
 - [x] Firebase: https://www.firebase.com/
 - [x] Parse: https://parse.com/
+- [ ] Hangfire: http://hangfire.io/
+- [ ] ASP.NET WebHooks
+- [ ] MongoDB
 
 ## Front end
 
 - [ ] Gulp 4
 - [ ] React: https://facebook.github.io/react/
+- [ ] PostCSS
 
 ## Design 
 
@@ -22,6 +26,10 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 ## Umbraco
 
 - [x] Umbraco as a Service (UaaS)
+- [ ] Umbraco Personalisation Groups: https://github.com/AndyButland/UmbracoPersonalisationGroups
+- [ ] Umbraco Mapper: https://github.com/AndyButland/UmbracoMapper
+- [ ] Umbraco Context Mock: https://github.com/garydevenay/Umbraco-Context-Mock
+- [ ] Umbraco REST API
 
 ## EPiServer
 
@@ -60,3 +68,6 @@ Feel free to add your own. The theme is to at least maintain a connection betwee
 - [x] WakaTime: https://wakatime.com/
 
 ## Other
+
+- [ ] Azure Storage Explorer: http://storageexplorer.com/
+- [ ] Docker
